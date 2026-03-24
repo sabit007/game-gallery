@@ -38,7 +38,7 @@ This project is being built as a learning journey to explore modern web developm
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gamegallery.git
+git clone https://github.com/sabit007/game-gallery.git
 cd gamegallery
 ```
 
@@ -101,6 +101,3 @@ This is a personal learning project, but suggestions and feedback are always wel
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
